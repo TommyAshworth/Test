@@ -19,7 +19,7 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI=react-scripts build"
+    "build": "CI= react-scripts build"
   },
   "browserslist": {
     "production": [
